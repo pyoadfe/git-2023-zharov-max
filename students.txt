@@ -1,38 +1,17 @@
 Alexander Myza <alexpromaster007@mail.ru>
 Alexandr Madoyan <ammadoyan@edu.hse.ru>
-Konstantin Malanchev <hombit@gmail.com>
 Alexandra_Idrisova aaidrisova@edu.hse.ru
 Alexey Beglov <ubermensh04@inbox.ru>
 AnnaEkaterina Kotova <catovskaya@gmail.com>
-AnnaEkaterina Kotova <catovskaya@gmail.com>
 Ariuna <hKholboevaolboeva03@mail.ru>
-Zharov Maxim <20052003maks@gmail.com>
-Sonya Ioffe <ioffesonya@gmail.com>
-Katrin <ekshush@icloud.com>
-Egor Semenov <essemenov_1@edu.hse.ru>
-nazar-si <nazari61@yandex.ru>
 Clai101 <matveichrk2@gmail.com>
 Daria Gerashchenko <regairad@gmail.com>
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
-evgenii-budanov <venenumboss@gmail.com>
-Alexandra_Idrisova aaidrisova@edu.hse.ru
-Daria Gerashchenko <regairad@gmail.com>
-UnderHam2ter <underhamster@mail.ru>
-skkali <svkalinina@edu.hse.ru>
-meedovique <4870982@mail.ru>
-Nikita Khripach <nikita.m.khr@gmail.com>
-Ivan Kovalev <nikodim563@gmail.com>
-tttonyalpha <tttonyalpha@gmail.com>
-Kholboeva Ariuna <holboeva03@mail.ru>
-Slava Yablochnikov <slava1003-as@yandex.ru>
-Ariuna <hKholboevaolboeva03@mail.ru>
-UnderHam2ter <underhamster@mail.ru>
-skkali <svkalinina@edu.hse.ru>
-meedovique <4870982@mail.ru>
 Dima Shestakov <korbendallas682@gmail.com>
 Dzhanaeva Nina <nvdzhanaeva@edu.hse.ru>
 Egor Semenov <essemenov_1@edu.hse.ru>
 George Shmakov <george_shmakov@mail.ru>
+Ivan Kovalev <nikodim563@gmail.com>
 Katrin <ekshush@icloud.com>
 Kholboeva Ariuna <holboeva03@mail.ru>
 Konstantin Malanchev <hombit@gmail.com>
@@ -44,25 +23,10 @@ Nikita Khripach <nikita.m.khr@gmail.com>
 NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
 Slava Yablochnikov <slava1003-as@yandex.ru>
 Sonya Ioffe <ioffesonya@gmail.com>
-Sonya Ioffe <ioffesonya@gmail.com>
-KuznetsovGeorg <gvkuznetsov@edu.hse.ru>
-Stepanova Anna <abstepanova@edu.hse.ru>
-agentWSS <v.kubanovivan2003@gmail.com>
-Mikhail Grigorev <mihail73351@gmail.com>
-George Shmakov <george_shmakov@mail.ru>
-Alexander Myza <alexpromaster007@mail.ru>
-NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
-Dima Shestakov <korbendallas682@gmail.com>
-Dzhanaeva Nina <nvdzhanaeva@edu.hse.ru>
-Kretov Ivan iakretov@edu.hse.ru
-Alexandr Madoyan <ammadoyan@edu.hse.ru>
-Kozhurina Yulia <yuskozhurina@edu.hse.ru>
-AnnaEkaterina Kotova <catovskaya@gmail.com>
-catee4ka <catovskaya@gmail.com>
-Alexey Beglov <ubermensh04@inbox.ru>
 Stepanova Anna <abstepanova@edu.hse.ru>
 UnderHam2ter <underhamster@mail.ru>
 Zharov Maxim <20052003maks@gmail.com>
+agentWSS <v.kubanovivan2003@gmail.com>
 catee4ka <catovskaya@gmail.com>
 evgenii-budanov <venenumboss@gmail.com>
 meedovique <4870982@mail.ru>
