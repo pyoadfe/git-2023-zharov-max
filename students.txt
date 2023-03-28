@@ -1,5 +1,4 @@
 Konstantin Malanchev <hombit@gmail.com>
-<<<<<<< HEAD
 Clai101 <matveichrk2@gmail.com>
 nazar-si <nazari61@yandex.ru>
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
