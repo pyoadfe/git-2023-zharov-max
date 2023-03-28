@@ -1,9 +1,10 @@
 Alexander Myza <alexpromaster007@mail.ru>
-Alexandr Madoyan <ammadoyan@edu.hse.ru>Konstantin Malanchev <hombit@gmail.com>
+Alexandr Madoyan <ammadoyan@edu.hse.ru>
+Konstantin Malanchev <hombit@gmail.com>
 Alexandra_Idrisova aaidrisova@edu.hse.ru
 Alexey Beglov <ubermensh04@inbox.ru>
 AnnaEkaterina Kotova <catovskaya@gmail.com>
-AnnaEkaterina Kotova <catovskaya@gmail.com>catee4ka <catovskaya@gmail.com>
+AnnaEkaterina Kotova <catovskaya@gmail.com>
 Ariuna <hKholboevaolboeva03@mail.ru>
 Clai101 <matveichrk2@gmail.com>
 Daria Gerashchenko <regairad@gmail.com>
@@ -23,7 +24,8 @@ Nikita Khripach <nikita.m.khr@gmail.com>
 NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
 Slava Yablochnikov <slava1003-as@yandex.ru>
 Sonya Ioffe <ioffesonya@gmail.com>
-Sonya Ioffe <ioffesonya@gmail.com>Dima Shestakov <korbendallas682@gmail.com>
+Sonya Ioffe <ioffesonya@gmail.com>
+Dima Shestakov <korbendallas682@gmail.com>
 Stepanova Anna <abstepanova@edu.hse.ru>
 UnderHam2ter <underhamster@mail.ru>
 Zharov Maxim <20052003maks@gmail.com>
