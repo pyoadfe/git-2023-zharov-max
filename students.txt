@@ -1,8 +1,6 @@
 Konstantin Malanchev <hombit@gmail.com>
 nazar-si <nazari61@yandex.ru>
-<<<<<<< HEAD
 tttonyalpha <tttonyalpha@gmail.com>
-=======
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
 Katrin <ekshush@icloud.com>
 Egor Semenov <essemenov_1@edu.hse.ru>
@@ -16,7 +14,5 @@ Ivan Kovalev <nikodim563@gmail.com>
 Kholboeva Ariuna <holboeva03@mail.ru>
 KuznetsovGeorg <gvkuznetsov@edu.hse.ru>
 Nikodim4 <nikodim563@gmail.com>
-tttonyalpha <tttonyalpha@gmail.com>
 Stepanova Anna <abstepanova@edu.hse.ru>
-UnderHam2ter <underhamster@mail.ru>
->>>>>>> origin/nazar-si
+UnderHam2ter <underhamster@mail.ru>x
