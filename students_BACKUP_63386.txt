@@ -1,6 +1,0 @@
-Konstantin Malanchev <hombit@gmail.com>
-<<<<<<< HEAD
-tttonyalpha <tttonyalpha@gmail.com>
-=======
-nazar-si <nazari61@yandex.ru>
->>>>>>> origin/nazar-si
