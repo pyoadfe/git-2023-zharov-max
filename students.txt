@@ -1,9 +1,9 @@
 Konstantin Malanchev <hombit@gmail.com>
 evgenii-budanov <venenumboss@gmail.com>
-Katrin <ekshush@icloud.com>
-Egor Semenov <essemenov_1@edu.hse.ru>
 nazar-si <nazari61@yandex.ru>
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
+Katrin <ekshush@icloud.com>
+Egor Semenov <essemenov_1@edu.hse.ru>
 Daria Gerashchenko <regairad@gmail.com>
 Zharov Maxim <20052003maks@gmail.com>
 Clai101 <matveichrk2@gmail.com>
@@ -14,3 +14,6 @@ Ivan Kovalev <nikodim563@gmail.com>
 Kholboeva Ariuna <holboeva03@mail.ru>
 KuznetsovGeorg <gvkuznetsov@edu.hse.ru>
 Nikodim4 <nikodim563@gmail.com>
+tttonyalpha <tttonyalpha@gmail.com>
+Stepanova Anna <abstepanova@edu.hse.ru>
+UnderHam2ter <underhamster@mail.ru>
