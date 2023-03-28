@@ -2,8 +2,6 @@ Konstantin Malanchev <hombit@gmail.com>
 Katrin <ekshush@icloud.com>
 Alexandra_Idrisova aaidrisova@edu.hse.ru
 Egor Semenov <essemenov_1@edu.hse.ru>
-=========
->>>>>>>>> Temporary merge branch 2
 nazar-si <nazari61@yandex.ru>
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
 Daria Gerashchenko <regairad@gmail.com>
@@ -24,5 +22,6 @@ Mikhail Grigorev <mihail73351@gmail.com>
 George Shmakov <george_shmakov@mail.ru>
 Alexander Myza <alexpromaster007@mail.ru>
 NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
-Sonya Ioffe <ioffesonya@gmail.com>Dima Shestakov <korbendallas682@gmail.com>
+Sonya Ioffe <ioffesonya@gmail.com>
+Dima Shestakov <korbendallas682@gmail.com>
 Dzhanaeva Nina <nvdzhanaeva@edu.hse.ru>
