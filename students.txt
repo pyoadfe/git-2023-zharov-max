@@ -1,15 +1,5 @@
 Konstantin Malanchev <hombit@gmail.com>
 AnnaEkaterina Kotova <catovskaya@gmail.com>catee4ka <catovskaya@gmail.com>
-Nikodim4 <nikodim563@gmail.com>
-evgenii-budanov <venenumboss@gmail.com>
-Katrin <ekshush@icloud.com>
-Egor Semenov <essemenov_1@edu.hse.ru>
-nazar-si <nazari61@yandex.ru>
-Clai101 <matveichrk2@gmail.com>
-<<<<<<< HEAD
-
-
-=======
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
 Alexandra_Idrisova aaidrisova@edu.hse.ru
 Egor Semenov <essemenov_1@edu.hse.ru>
@@ -41,4 +31,4 @@ Sonya Ioffe <ioffesonya@gmail.com>Dima Shestakov <korbendallas682@gmail.com>
 Dzhanaeva Nina <nvdzhanaeva@edu.hse.ru>
 Dima Shestakov <korbendallas682@gmail.com>
 Kretov Ivan iakretov@edu.hse.ru
->>>>>>> origin/Nikodim4
+
