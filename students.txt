@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 KuznetsovGeorg <gvkuznetsov@edu.hse.ru>
 Konstantin Malanchev <hombit@gmail.com>
 Egor Semenov <essemenov_1@edu.hse.ru>
-=======
 Konstantin Malanchev <hombit@gmail.com>
->>>>>>> KuznetsovGeorg/nazar-si
 nazar-si <nazari61@yandex.ru>
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
 Katrin <ekshush@icloud.com>
@@ -15,8 +12,6 @@ Clai101 <matveichrk2@gmail.com>
 skkali <svkalinina@edu.hse.ru>
 meedovique <4870982@mail.ru>
 Nikita Khripach <nikita.m.khr@gmail.com>
-<<<<<<< HEAD
-=======
 Ivan Kovalev <nikodim563@gmail.com>
 Kholboeva Ariuna <holboeva03@mail.ru>
 KuznetsovGeorg <gvkuznetsov@edu.hse.ru>
@@ -29,4 +24,3 @@ agentWSS <v.kubanovivan2003@gmail.com>
 Mikhail Grigorev <mihail73351@gmail.com>
 George Shmakov <george_shmakov@mail.ru>
 Alexander Myza <alexpromaster007@mail.ru>
->>>>>>> KuznetsovGeorg/nazar-si
