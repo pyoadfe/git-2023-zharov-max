@@ -1,4 +1,5 @@
 Konstantin Malanchev <hombit@gmail.com>
+Alexandra_Idrisova aaidrisova@edu.hse.ru
 nazar-si <nazari61@yandex.ru>
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
 Katrin <ekshush@icloud.com>
@@ -23,3 +24,4 @@ George Shmakov <george_shmakov@mail.ru>
 Alexander Myza <alexpromaster007@mail.ru>
 NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
 Sonya Ioffe <ioffesonya@gmail.com>
+
