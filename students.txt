@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Konstantin Malanchev <hombit@gmail.com> 
 evgenii-budanov <venenumboss@gmail.com> 
 nazar-si <nazari61@yandex.ru> 
@@ -29,4 +30,5 @@ Dima Shestakov <korbendallas682@gmail.com>
 Kretov Ivan iakretov@edu.hse.ru 
 Alexandr Madoyan <ammadoyan@edu.hse.ru>
 AnnaEkaterina Kotova <catovskaya@gmail.com>catee4ka <catovskaya@gmail.com>
+Kozhurina Yulia <yuskozhurina@edu.hse.ru>
 
