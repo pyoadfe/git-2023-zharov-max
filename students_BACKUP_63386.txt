@@ -1,3 +1,6 @@
 Konstantin Malanchev <hombit@gmail.com>
-nazar-si <nazari61@yandex.ru>
+<<<<<<< HEAD
 tttonyalpha <tttonyalpha@gmail.com>
+=======
+nazar-si <nazari61@yandex.ru>
+>>>>>>> origin/nazar-si
