@@ -1,4 +1,5 @@
 Konstantin Malanchev <hombit@gmail.com>
+evgenii-budanov <venenumboss@gmail.com>
 Katrin <ekshush@icloud.com>
 Alexandra_Idrisova aaidrisova@edu.hse.ru
 Egor Semenov <essemenov_1@edu.hse.ru>
@@ -13,5 +14,8 @@ Nikita Khripach <nikita.m.khr@gmail.com>
 Stepanova Anna <abstepanova@edu.hse.ru>
 tttonyalpha <tttonyalpha@gmail.com>
 UnderHam2ter <underhamster@mail.ru>
-
+Ivan Kovalev <nikodim563@gmail.com>
+Kholboeva Ariuna <holboeva03@mail.ru>
+KuznetsovGeorg <gvkuznetsov@edu.hse.ru>
+Nikodim4 <nikodim563@gmail.com>
 
