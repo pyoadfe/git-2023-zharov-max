@@ -5,6 +5,7 @@ Konstantin Malanchev <hombit@gmail.com>
 Alexandra_Idrisova aaidrisova@edu.hse.ru
 Egor Semenov <essemenov_1@edu.hse.ru>
 nazar-si <nazari61@yandex.ru>
+tttonyalpha <tttonyalpha@gmail.com>
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
 Katrin <ekshush@icloud.com>
 Egor Semenov <essemenov_1@edu.hse.ru>
@@ -19,7 +20,6 @@ Ivan Kovalev <nikodim563@gmail.com>
 Kholboeva Ariuna <holboeva03@mail.ru>
 KuznetsovGeorg <gvkuznetsov@edu.hse.ru>
 Nikodim4 <nikodim563@gmail.com>
-tttonyalpha <tttonyalpha@gmail.com>
 Stepanova Anna <abstepanova@edu.hse.ru>
 UnderHam2ter <underhamster@mail.ru>
 evgenii-budanov <venenumboss@gmail.com>
@@ -28,4 +28,3 @@ Mikhail Grigorev <mihail73351@gmail.com>
 George Shmakov <george_shmakov@mail.ru>
 Alexander Myza <alexpromaster007@mail.ru>
 NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
-
