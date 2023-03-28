@@ -26,7 +26,6 @@ NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
 Sonya Ioffe <ioffesonya@gmail.com>
 Dima Shestakov <korbendallas682@gmail.com>
 Dzhanaeva Nina <nvdzhanaeva@edu.hse.ru>
-Dima Shestakov <korbendallas682@gmail.com>
 Kretov Ivan iakretov@edu.hse.ru
 Alexandr Madoyan <ammadoyan@edu.hse.ru>Konstantin Malanchev <hombit@gmail.com>
 Kozhurina Yulia <yuskozhurina@edu.hse.ru>
