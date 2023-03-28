@@ -1,9 +1,12 @@
 Konstantin Malanchev <hombit@gmail.com>
 Katrin <ekshush@icloud.com>
-Alexandra_Idrisova aaidrisova@edu.hse.ru
+evgenii-budanov <venenumboss@gmail.com>
+Katrin <ekshush@icloud.com>
 Egor Semenov <essemenov_1@edu.hse.ru>
 nazar-si <nazari61@yandex.ru>
 DariyshkaTerenteva <dasha-marinecheva@mail.ru>
+Alexandra_Idrisova aaidrisova@edu.hse.ru
+Egor Semenov <essemenov_1@edu.hse.ru>
 Daria Gerashchenko <regairad@gmail.com>
 Zharov Maxim <20052003maks@gmail.com>
 Clai101 <matveichrk2@gmail.com>
@@ -12,10 +15,11 @@ meedovique <4870982@mail.ru>
 Nikita Khripach <nikita.m.khr@gmail.com>
 UnderHam2ter <underhamster@mail.ru>
 Ivan Kovalev <nikodim563@gmail.com>
+UnderHam2ter <underhamster@mail.ru>
+tttonyalpha <tttonyalpha@gmail.com>
 Kholboeva Ariuna <holboeva03@mail.ru>
 KuznetsovGeorg <gvkuznetsov@edu.hse.ru>
 Nikodim4 <nikodim563@gmail.com>
-tttonyalpha <tttonyalpha@gmail.com>
 Stepanova Anna <abstepanova@edu.hse.ru>
 evgenii-budanov <venenumboss@gmail.com>
 Mikhail Grigorev <mihail73351@gmail.com>
@@ -25,3 +29,6 @@ NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
 Sonya Ioffe <ioffesonya@gmail.com>
 Dima Shestakov <korbendallas682@gmail.com>
 Dzhanaeva Nina <nvdzhanaeva@edu.hse.ru>
+Dima Shestakov <korbendallas682@gmail.com>
+Kretov Ivan iakretov@edu.hse.ru
+Alexandr Madoyan <ammadoyan@edu.hse.ru>
