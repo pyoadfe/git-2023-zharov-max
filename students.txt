@@ -1,5 +1,8 @@
 Konstantin Malanchev <hombit@gmail.com>
 Zharov Maxim <20052003maks@gmail.com>
+Sonya Ioffe <ioffesonya@gmail.com>
+Katrin <ekshush@icloud.com>
+Egor Semenov <essemenov_1@edu.hse.ru>
 nazar-si <nazari61@yandex.ru>
 Clai101 <matveichrk2@gmail.com>
 meedovique <4870982@mail.ru>
@@ -23,3 +26,4 @@ George Shmakov <george_shmakov@mail.ru>
 Alexander Myza <alexpromaster007@mail.ru>
 NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
 Dima Shestakov <korbendallas682@gmail.com>
+
