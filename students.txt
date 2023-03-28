@@ -17,6 +17,8 @@ Nikita Khripach <nikita.m.khr@gmail.com>
 Ivan Kovalev <nikodim563@gmail.com>
 tttonyalpha <tttonyalpha@gmail.com>
 Kholboeva Ariuna <holboeva03@mail.ru>
+Slava Yablochnikov <slava1003-as@yandex.ru>
+Ariuna <hKholboevaolboeva03@mail.ru>
 KuznetsovGeorg <gvkuznetsov@edu.hse.ru>
 Nikodim4 <nikodim563@gmail.com>
 Stepanova Anna <abstepanova@edu.hse.ru>
