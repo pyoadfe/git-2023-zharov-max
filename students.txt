@@ -1,5 +1,4 @@
 Konstantin Malanchev <hombit@gmail.com>
-Egor Semenov <essemenov_1@edu.hse.ru>
 Konstantin Malanchev <hombit@gmail.com>
 Alexandra_Idrisova aaidrisova@edu.hse.ru
 nazar-si <nazari61@yandex.ru>
