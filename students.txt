@@ -1,15 +1,15 @@
 Konstantin Malanchev <hombit@gmail.com>
+nazar-si <nazari61@yandex.ru>
+Clai101 <matveichrk2@gmail.com>
+DariyshkaTerenteva <dasha-marinecheva@mail.ru>
 Katrin <ekshush@icloud.com>
 evgenii-budanov <venenumboss@gmail.com>
 Katrin <ekshush@icloud.com>
 Egor Semenov <essemenov_1@edu.hse.ru>
-nazar-si <nazari61@yandex.ru>
-DariyshkaTerenteva <dasha-marinecheva@mail.ru>
 Alexandra_Idrisova aaidrisova@edu.hse.ru
 Egor Semenov <essemenov_1@edu.hse.ru>
 Daria Gerashchenko <regairad@gmail.com>
 Zharov Maxim <20052003maks@gmail.com>
-Clai101 <matveichrk2@gmail.com>
 skkali <svkalinina@edu.hse.ru>
 meedovique <4870982@mail.ru>
 Nikita Khripach <nikita.m.khr@gmail.com>
@@ -30,4 +30,5 @@ Sonya Ioffe <ioffesonya@gmail.com>Dima Shestakov <korbendallas682@gmail.com>
 Dzhanaeva Nina <nvdzhanaeva@edu.hse.ru>
 Dima Shestakov <korbendallas682@gmail.com>
 Kretov Ivan iakretov@edu.hse.ru
-Alexandr Madoyan <ammadoyan@edu.hse.ru>
+Alexandr Madoyan <ammadoyan@edu.hse.ru>Konstantin Malanchev <hombit@gmail.com>
+Kozhurina Yulia <yuskozhurina@edu.hse.ru>
