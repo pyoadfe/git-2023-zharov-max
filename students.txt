@@ -16,6 +16,7 @@ Zharov Maxim <20052003maks@gmail.com>
 skkali <svkalinina@edu.hse.ru>
 agentWSS <v.kubanovivan2003@gmail.com>
 meedovique <4870982@mail.ru>
+Tushin Dugarnimaev <dugarnimaevt@gmail.com>
 Nikita Khripach <nikita.m.khr@gmail.com>
 Ivan Kovalev <nikodim563@gmail.com>
 Kholboeva Ariuna <holboeva03@mail.ru>
@@ -30,3 +31,4 @@ Alexander Myza <alexpromaster007@mail.ru>
 NikitaSadikov <115195029+NikitaSadikov@users.noreply.github.com>
 Sonya Ioffe <ioffesonya@gmail.com>Dima Shestakov <korbendallas682@gmail.com>
 Dzhanaeva Nina <nvdzhanaeva@edu.hse.ru>
+Dima Shestakov <korbendallas682@gmail.com>
